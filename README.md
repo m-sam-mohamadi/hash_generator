@@ -2,7 +2,7 @@
 #### hash - sha256 generator for password list file
 
 run ./hashGenerator.py with python3
-enter your password list address
+and enter your password list address
 also you can choose to optimize memory for big data
 
 your password list content most be:
